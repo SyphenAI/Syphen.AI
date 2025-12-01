@@ -31,7 +31,7 @@ Available right now for:
 - AI red team assessments
 - Threat modeling workshops
 - Building your first AI security program
-- Tooling feedback or paid bug bounties on syphen.ai
+- Tooling feedback 
 
 evanyousif07@gmail.com · Groveland, FL · @_syphen on X
 
