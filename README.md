@@ -30,6 +30,6 @@ Available right now for:
 - Building your first AI security program
 - Tooling feedback 
 
-evanyousif07@gmail.com · Groveland, FL · @_syphen on X
 
 If you’re losing sleep over what your LLM will do in production, send me a message. I’ll probably answer faster than your SOC.
+SyphenMain@gmail.com
