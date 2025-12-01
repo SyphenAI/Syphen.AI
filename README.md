@@ -14,7 +14,7 @@ Now I’m on my own, shipping tools I always wished existed and helping teams wh
 - Build scanners and playbooks that catch prompt injection, model poisoning, MCP exploits, supply-chain backdoors
 - Turn regulatory frameworks (NIST AI RMF, OCC SR 11-7, FFIEC) into something engineers can action instead of ignore
 
-### Tools I’m shipping
+### Tools I’m shipping TBD
 syphen.ai → Open-core AI security + compliance dashboard (coming online soon)  
 Self-hosted, no sales calls, priced for small teams and indie builders.
 
@@ -22,9 +22,6 @@ Self-hosted, no sales calls, priced for small teams and indie builders.
 - Founded the AI Security Program Office at a Fortune 500 bank (2022–2025)
 - Led enterprise red, blue, and purple team operations (2016–2025)
 - Department of Defense U.S. Army Operations (2004–2012)
-
-### Certs I actually use
-CISSP · CEH · CompTIA SecurityX (CASP+ ce) · CySA+
 
 ### Get in touch
 Available right now for:
