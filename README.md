@@ -6,7 +6,7 @@ I spent the last three years standing up one of the first real AI security progr
 
 Before that I built the red team from scratch, ran purple-team cycles, and turned threat intel into detection that actually worked.
 
-Now I’m on my own, shipping tools I always wished existed and helping teams who can’t afford (or don’t trust) the big vendors.
+Now I’m, Creating tools I always wished existed and helping teams who can’t afford (or don’t trust) the big vendors.
 
 ### What I actually do every day
 - Red-team LLMs, RAG pipelines, and agentic systems
